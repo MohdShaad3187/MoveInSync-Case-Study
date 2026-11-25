@@ -1,0 +1,3 @@
+{"id": "1", "input": "When does night drop need approval?", "expected": "Night drop after 8 PM needs manager approval.", "actual": "Night drop after 8 PM needs manager approval.", "pass": true, "notes": "basic keyword match"}
+{"id": "2", "input": "Can I book a weekend cab?", "expected": "Weekend cabs are not allowed.", "actual": "Weekend cabs are not allowed.", "pass": true, "notes": "basic keyword match"}
+{"id": "3", "input": "What about airport trips?", "expected": "Airport trips are not covered.", "actual": "Airport trips are not covered.", "pass": true, "notes": "basic keyword match"}
